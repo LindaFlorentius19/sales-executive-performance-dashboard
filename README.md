@@ -1,4 +1,4 @@
-# sales-executive-performance-dashboard
+# sales-executive-performance-dashboard - Excel
 Excel dashboard analyzing 20,000 sales records across 440 executives and 12 regions. Built using Pivot Tables, SUMIF, AVERAGEIF, charts and conditional formatting.
 
 ## Project Overview
